@@ -1,5 +1,5 @@
 # Mastering-WordPress-Features
-Welcome to the "Read Me" page! This page aims to provide a comprehensive overview of the various features and capabilities available in the WordPress platform for developers. You can explore these features and leverage them to develop and customize websites in an innovative and efficient manner.
+Welcome to the "Read Me" page! This theme aims to provide a comprehensive overview of the various features and capabilities available in the WordPress platform for developers. You can explore these features and leverage them to develop and customize websites in an innovative and efficient manner.
 
 1- WordPress Themes:
 One of the key features of WordPress is the availability of themes. You can use these themes as a starting point to design and customize your website according to your needs. WordPress offers a wide range of free and premium themes that cater to various project requirements.
